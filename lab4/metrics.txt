@@ -1,0 +1,4 @@
+Accuracy: 0.905968515868339
+Precision: 0.8913088463654177
+Recall: 0.8851012097242478
+Matthews Correlation Coefficient: 0.9054300982453707

@@ -1,0 +1,19 @@
+Python ORG
+MIT ORG
+Matthew Honnibal PERSON
+Ines Montani PERSON
+Explosion ORG
+NLTK ORG
+TensorFlow ORG
+PyTorch ORG
+MXNet ORG
+Thinc GPE
+NER ORG
+17 CARDINAL
+English LANGUAGE
+Portuguese NORP
+Spanish LANGUAGE
+Russian NORP
+Chinese NORP
+NER ORG
+more than 65 CARDINAL
